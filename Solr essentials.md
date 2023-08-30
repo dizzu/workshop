@@ -25,8 +25,6 @@
     - [Range facet / the `range` facet type](#range-facet--the-range-facet-type)
   - [Highlighting / the `hl` parameter](#highlighting--the-hl-parameter)
   - [Split on whitespace (`sow`) - term centric vs field centric](#split-on-whitespace-sow---term-centric-vs-field-centric)
-  - [schema.xml - dynamic fields](#schemaxml---dynamic-fields)
-  - [schema.xml - copy fields](#schemaxml---copy-fields)
 
 <!-- /code_chunk_output -->
 
